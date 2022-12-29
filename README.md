@@ -1,4 +1,6 @@
 # Chat_Cliente-Servidor
+![imagen](https://raw.githubusercontent.com/taniadah/Chat_Cliente-Servidor/main/Chat.gif)<br>
+
 Es un ejemplo de chat utilizando hilo y sockets
 
 ### Lenguaje de programación
